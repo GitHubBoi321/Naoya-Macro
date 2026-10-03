@@ -1,7 +1,0 @@
-opencv-python
-numpy
-pyautogui
-pydirectinput
-keyboard
-pygetwindow
-Pillow
